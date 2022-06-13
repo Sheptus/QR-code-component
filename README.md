@@ -24,10 +24,10 @@ for a mobile and desktop devices.
 ### Screenshot
 
 #### Mobile Screenshot
-![Mobile](./images/screenshot/mobile_sc.jpg)
+![Mobile](./images/screenshot/Mobile_ss.jpg)
 
 #### Desktop Screenshot
-![Desktop](./images/screenshot/desktop_sc.jpg)
+![Desktop](./images/screenshot/Desktop_ss.jpg)
 
 
 ### Links
